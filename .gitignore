@@ -1,3 +1,6 @@
+# mugshots
+static/img/mugs
+
 # Logs
 logs
 *.log
@@ -57,3 +60,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# webstorm what you doin 
+.idea
